@@ -5,3 +5,4 @@ Em đã tải lên khuôn tài liệu và Bìa báo cáo
 Tuần 2: Ở tuần này sẽ thiết kế database và tải hình sơ đồ database lên 
 Tuần 3: Em sẽ tải file script database lên, code giao diện web
 Tuần 4: Em đã cơ bản làm xong các chức năng và giao diện web, gồm có CRUD, tìm kiếm...
+Tuần 5 và tuần 6: Em đã hoàn thiện trang web với các tính năng cơ bản như CRUD, tìm kiếm, phân trang... Nộp tài liệu lên LMS, đẩy code lên github.
