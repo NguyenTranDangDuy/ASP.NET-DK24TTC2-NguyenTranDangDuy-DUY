@@ -1,0 +1,48 @@
+﻿@model IEnumerable<WebNauAn.Models.Nguyenlieu>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucNguyenLieu";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>DanhMucNguyenLieu</h1>
+
+
+<table class="table" style="width:100%; white-space:nowrap;table-layout:fixed">
+    <thead>
+        <tr>
+            <th>
+                TenNguyenLieu
+            </th>
+            <th>
+               SoLuong
+            </th>
+            <th>
+                DonVi
+            </th>
+            <th>
+                MaLoaiNguyenLieu
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNguyenLieu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonVi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLoaiNguyenLieu)
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>

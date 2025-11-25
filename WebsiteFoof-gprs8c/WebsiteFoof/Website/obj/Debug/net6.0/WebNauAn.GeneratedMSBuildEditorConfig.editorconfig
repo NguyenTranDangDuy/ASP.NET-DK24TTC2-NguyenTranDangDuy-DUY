@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebNauAn
+build_property.RootNamespace = WebNauAn
+build_property.ProjectDir = D:\New ne\Food-Web\WebNauAn\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\New ne\Food-Web\WebNauAn
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/CongThucBuocNau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENvbmdUaHVjQnVvY05hdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/CongThucNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENvbmdUaHVjTmd1eWVuTGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/DanhMucCongThuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNDb25nVGh1Yy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/DanhMucLoaiNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNMb2FpTmd1eWVuTGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/DanhMucNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNOZ3V5ZW5MaWV1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/getAllCongthucBuocNau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXGdldEFsbENvbmd0aHVjQnVvY05hdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/getAllCongthucNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXGdldEFsbENvbmd0aHVjTmd1eWVuTGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/SuaBuocNau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUJ1b2NOYXUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/SuaCongThucNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUNvbmdUaHVjTmd1eWVuTGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/SuaLoaiNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUxvYWlOZ3V5ZW5MaWV1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/SuaNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YU5ndXllbkxpZXUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/ThemBuocNau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1CdW9jTmF1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/ThemLoaiNguyenLieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Mb2FpTmd1eWVuTGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/ThemNguyenLieuCongThuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1OZ3V5ZW5MaWV1Q29uZ1RodWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/ThemNguyenLieuMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1OZ3V5ZW5MaWV1TW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Home/ChiTietCongThuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0Q29uZ1RodWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Home/CongThucTheoLoaiMonAn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25nVGh1Y1RoZW9Mb2FpTW9uQW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Home/searchFood.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZWFyY2hGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/Components/CacBuocNau/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FjQnVvY05hdVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/Components/LoaiMonAn/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9haU1vbkFuXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/Components/NguyenLieu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmd1eWVuTGlldVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/_LayoutChiTietCongThuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDaGlUaWV0Q29uZ1RodWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/_LayoutWebNauAn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRXZWJOYXVBbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New ne/Food-Web/WebNauAn/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wrd5k2ri54

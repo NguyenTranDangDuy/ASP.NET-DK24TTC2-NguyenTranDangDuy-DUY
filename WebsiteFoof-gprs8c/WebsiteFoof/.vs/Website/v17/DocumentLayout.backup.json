@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\wwwroot\\layoutadmin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\wwwroot\\layoutadmin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\models\\webnauancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\models\\webnauancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\repository\\nguyenlieurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\repository\\nguyenlieurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\views\\shared\\_layoutchitietcongthuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\views\\shared\\_layoutchitietcongthuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\views\\home\\congthuctheoloaimonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\views\\home\\congthuctheoloaimonan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\views\\shared\\_layoutwebnauan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\views\\shared\\_layoutwebnauan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|c:\\users\\hp-mt\\downloads\\websitefoof-gprs8c\\websitefoof\\website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9653371-59B7-887E-EFF1-6C2C04BD8628}|Website\\Website.csproj|solutionrelative:website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\wwwroot\\LayoutAdmin\\index.html",
+              "RelativeDocumentMoniker": "Website\\wwwroot\\LayoutAdmin\\index.html",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\wwwroot\\LayoutAdmin\\index.html",
+              "RelativeToolTip": "Website\\wwwroot\\LayoutAdmin\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-10T09:41:56.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Website\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Website\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T09:34:45.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Website\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "Website\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T09:34:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguyenLieuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Repository\\NguyenLieuRepository.cs",
+              "RelativeDocumentMoniker": "Website\\Repository\\NguyenLieuRepository.cs",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Repository\\NguyenLieuRepository.cs",
+              "RelativeToolTip": "Website\\Repository\\NguyenLieuRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:33:42.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Access\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Website\\Views\\Access\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T09:33:17.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T09:42:34.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CongThucTheoLoaiMonAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Home\\CongThucTheoLoaiMonAn.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\CongThucTheoLoaiMonAn.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Home\\CongThucTheoLoaiMonAn.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\CongThucTheoLoaiMonAn.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T09:42:24.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutChiTietCongThuc.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Shared\\_LayoutChiTietCongThuc.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Shared\\_LayoutChiTietCongThuc.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Shared\\_LayoutChiTietCongThuc.cshtml",
+              "RelativeToolTip": "Website\\Views\\Shared\\_LayoutChiTietCongThuc.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAF0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T09:38:07.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebNauAnContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Models\\WebNauAnContext.cs",
+              "RelativeDocumentMoniker": "Website\\Models\\WebNauAnContext.cs",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Models\\WebNauAnContext.cs",
+              "RelativeToolTip": "Website\\Models\\WebNauAnContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wCMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:44:59.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LayoutWebNauAn.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Shared\\_LayoutWebNauAn.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Shared\\_LayoutWebNauAn.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Shared\\_LayoutWebNauAn.cshtml",
+              "RelativeToolTip": "Website\\Views\\Shared\\_LayoutWebNauAn.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T03:14:14.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T03:13:48.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\appsettings.json",
+              "RelativeDocumentMoniker": "Website\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp-mt\\Downloads\\WebsiteFoof-gprs8c\\WebsiteFoof\\Website\\appsettings.json",
+              "RelativeToolTip": "Website\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T09:01:23.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
